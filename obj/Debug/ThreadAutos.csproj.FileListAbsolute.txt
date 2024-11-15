@@ -1,0 +1,7 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\ThreadAutos\bin\Debug\ThreadAutos.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\ThreadAutos\bin\Debug\ThreadAutos.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\ThreadAutos\bin\Debug\ThreadAutos.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\ThreadAutos\obj\Debug\ThreadAutos.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\ThreadAutos\obj\Debug\ThreadAutos.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\ThreadAutos\obj\Debug\ThreadAutos.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\ThreadAutos\obj\Debug\ThreadAutos.pdb
